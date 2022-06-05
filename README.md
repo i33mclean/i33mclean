@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @i33mclean and I am a Senior at The University of South Florida studying Business Analytics & Info Systems.
-- 👀 I’m interested in Software Development, and Product Management.
-- 🌱 I’m currently learning C#, HTML, CSS, JS.
+- 👀 I’m interested in becoming a Software Engineer post-graduation.
+- 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate with other students working on projects to improve their programming skills and resume building.
 - 📫 How to reach me ... ikmclean@usf.edu
 
